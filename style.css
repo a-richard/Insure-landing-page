@@ -285,7 +285,7 @@ ul {
 }
 
 .how-we-work-button:hover {
-  background-color: hsl(0, 0%, 98%)
+  background-color: hsl(0, 0%, 98%);
   color: hsl(256, 26%, 20%);
 }
 
