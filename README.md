@@ -1,4 +1,4 @@
-# Insure-landing-page
+# insure-landing-page
 
 Challenge by [Frontend Mentor](https://www.frontendmentor.io/)
 
